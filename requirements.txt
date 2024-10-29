@@ -1,0 +1,6 @@
+requests
+fake_useragent==1.5.1
+BeautifulSoup4
+lxml
+selenium
+xlsxwriter
